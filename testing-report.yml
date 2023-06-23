@@ -4,6 +4,10 @@
   status: pass
 
 - summary: |
+    Регистрация нового пользователя с несуществующим email
+  status: fail
+
+- summary: |
     Проверка работы формы восстановления пароля пользователя "Forgot your password?" на валидный Email
   status: pass
 
@@ -12,5 +16,5 @@
   status: pass
 
 - summary: |
-Проверка сортировки Users rating по колонкам "Rank", "Rating" и соотношения между ними
+    Проверка сортировки на странице Users rating по колонке "Rank"
   status: pass
