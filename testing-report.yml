@@ -19,8 +19,6 @@
     Проверка сортировки на странице Users rating по колонке "Rank"
   status: pass
 
-# Добавленные тест-кейсы
-
 - summary: |
     Проверка создания новой игры - Create a game
   status: pass
